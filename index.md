@@ -50,4 +50,4 @@ Use of such services is subject to their respective terms, policies and technica
 
 ## Contact
 
-https://github.com/dieterbusch/affiliate-local-worker/issues?reload=1
+https://github.com/dieterbusch/affiliate-local-worker/issues

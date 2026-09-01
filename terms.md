@@ -83,4 +83,4 @@ The latest version will be published on this website.
 
 For questions regarding these Terms of Service, contact:
 
-https://github.com/dieterbusch/affiliate-local-worker/issues?reload=1
+https://github.com/dieterbusch/affiliate-local-worker/issues

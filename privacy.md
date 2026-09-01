@@ -82,4 +82,4 @@ The latest version will be published on this website.
 
 For questions regarding privacy or data processing, contact:
 
-https://github.com/dieterbusch/affiliate-local-worker/issues?reload=1
+https://github.com/dieterbusch/affiliate-local-worker/issues

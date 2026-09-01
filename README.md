@@ -55,4 +55,4 @@ See the project documentation and source code for technical details.
 
 ## Contact
 
-https://github.com/dieterbusch/affiliate-local-worker/issues?reload=1
+https://github.com/dieterbusch/affiliate-local-worker/issues
