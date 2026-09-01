@@ -1,0 +1,17 @@
+spring:
+  application:
+    name: affiliate-local-worker
+
+  profiles:
+    active: mock
+
+worker:
+  api:
+    poll-interval: 10s
+    base-url: ${WORKER_API_URL}
+    api-key: ${WORKER_API_KEY}
+  amazon:
+    partner-id: ${AMAZON_PARTNER_ID}
+
+
+
